@@ -180,8 +180,6 @@ $RECYCLE.BIN/
 *.code-workspace
 
 # 9. Docker / Deploy secrets
-Dockerfile
-.dockerignore
 .docker/
 .docker-compose.override.yml
 .docker-compose.prod.yml
