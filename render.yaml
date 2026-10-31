@@ -11,3 +11,5 @@ services:
         generateValue: true
       - key: PUBLIC_ORIGIN
         sync: false
+      - key: GROQ_API_KEY
+        sync: false
